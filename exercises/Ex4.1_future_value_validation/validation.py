@@ -1,3 +1,8 @@
+'''
+Angel Hope D. Valdez
+25 Jan 2024
+Exercise 3-1
+'''
 #!/usr/bin/env python3
         
 def get_float(prompt, low, high):
