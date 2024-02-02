@@ -45,8 +45,7 @@ def process_scores(scores):
         middle1 = scores[median_index]
         middle2 = scores[median_index-1]
         median_score = (middle1 + middle2)/2
-
-                
+        
     # format and display the result
     print()
     print("Total:           ", total)
